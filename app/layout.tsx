@@ -11,7 +11,7 @@ import { Header } from '@/components/header'
 export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
   title: {
-    default: 'DennX',
+    default: 'MateeJr',
     template: `%s - AI-powered chatbot`
   },
   description: 'An AI-powered chatbot.',
