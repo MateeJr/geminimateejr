@@ -57,7 +57,7 @@ export function Header() {
       <div className="flex items-center justify-end space-x-2">
         <a
           target="_blank"
-          href="https://github.com/sinnedpenguin/dennx"
+          href="gemini.google.com"
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: 'outline' }))}
         >
@@ -66,12 +66,12 @@ export function Header() {
         </a>
         <a
           target="_blank"
-          href="https://discord.com/invite/yQxpgFdC6n"
+          href="gemini.google.com"
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: 'outline' }))}
         >
           <IconDiscord />
-          <span className="hidden ml-2 md:flex">Discord</span>
+          <span className="hidden ml-2 md:flex">Gemini</span>
         </a>
       </div>
     </header>
