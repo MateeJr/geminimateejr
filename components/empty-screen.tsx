@@ -23,7 +23,7 @@ export function EmptyScreen({ setInput }: Pick<UseChatHelpers, 'setInput'>) {
     <div className="mx-auto max-w-2xl px-4">
       <div className="rounded-lg border bg-background p-8">
         <h1 className="mb-2 text-lg font-semibold">
-          Hello, I&apos;m DennX!
+          Hello, I&apos;m MateeJr!
         </h1>
         <p className="mb-2 leading-normal text-muted-foreground">
           Start a conversation with me by sending a message or by clicking the following examples.
